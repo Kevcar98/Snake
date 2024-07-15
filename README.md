@@ -2,6 +2,9 @@
 
 This project is a Java implementation of the classic Snake game. It features a GUI where the player controls a snake, aiming to eat food while avoiding collisions with the walls or itself. The game includes different types of food that affect the gameplay in various ways.
 
+![Snake](snake.png)
+
+
 ## Features
 
 - Customizable board size through user input at the start of the game.
